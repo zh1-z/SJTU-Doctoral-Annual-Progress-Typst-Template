@@ -7,7 +7,7 @@
 
 | [研究生开题报告](https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template) | [硕士生中期检查](https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template) | [博士生年度进展](https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template) |
 | :---: | :---: | :---: |
-| <img src="https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="100%" /> | <img src="https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="100%" /> | <img src="https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="50%" /> |
+| <img src="https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="100%" /> | <img src="https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="100%" /> | <img src="https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="100%" /> |
 
 ## 使用方法
 
