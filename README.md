@@ -3,7 +3,7 @@
 
 本项目是 **上海交通大学博士研究生学位论文年度进展报告** 的 Typst 模板。本模板严格根据上海交通大学研究生院官网提供的最新版 [Word 模板](https://www.gs.sjtu.edu.cn/xzzx/pygl) 要求制作。
 
-相比于传统的 LaTeX 模板，本模板具有 **极速编译**（毫秒级响应）、**逻辑自动化**（如课题来源自动勾选）以及 **零环境配置** 等优势。
+相比于传统的 LaTeX 模板，本模板具有 **极速编译**（毫秒级响应）以及 **零环境配置** 等优势。
 
 | [研究生开题报告](https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template) | [硕士生中期检查](https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template) | [博士生年度进展](https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template) |
 | :---: | :---: | :---: |
