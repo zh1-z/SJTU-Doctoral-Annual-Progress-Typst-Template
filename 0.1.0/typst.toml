@@ -1,5 +1,5 @@
 [package]
-name = "sjtu-doctoral-annual-progress"
+name = "std-sjtu-doctoral-annual-progress"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["zh1-z"]
